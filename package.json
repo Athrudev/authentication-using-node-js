@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "authentication-using-node",
   "version": "1.0.0",
   "description": "",
@@ -166,4 +167,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "express-generator": "^4.16.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+>>>>>>> main
 }
